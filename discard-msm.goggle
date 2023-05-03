@@ -51,6 +51,7 @@ $discard,site=foxcorporation.com
 
 ! NBCUniversal
 $discard,site=cnbc.com
+$discard,site=msn.com
 $discard,site=msnbc.com
 $discard,site=nbc.com
 $discard,site=nbcconnecticut.com
@@ -95,13 +96,13 @@ $discard,site=mtv.com
 
 ! Penske Media Corporation
 $discard,site=rollingstone.com
-$discard,site=pmc.com/
-$discard,site=deadline.com/
-$discard,site=indiewire.com/
-$discard,site=bgr.com/
-$discard,site=variety.com/
-$discard,site=tvline.com/
-$discard,site=robbreport.com/
+$discard,site=pmc.com
+$discard,site=deadline.com
+$discard,site=indiewire.com
+$discard,site=bgr.com
+$discard,site=variety.com
+$discard,site=tvline.com
+$discard,site=robbreport.com
 $discard,site=artnews.com
 
 ! Corporation for Public Broadcasting
@@ -116,3 +117,45 @@ $discard,site=npr.org
 ! Chris Richmond
 $discard,site=salon.com
 $discard,site=snopes.com
+
+! IAC
+$discard,site=ew.com
+$discard,site=lifewire.com
+$discard,site=thebalancemoney.com
+$discard,site=thedailybeast.com
+$discard,site=people.com
+
+! Axel Springer SE
+$discard,site=politico.com
+$discard,site=businessinsider.com
+$discard,site=insider.com
+
+! News Corp
+$discard,site=wsj.com
+$discard,site=skynews.com.au
+$discard,site=news.sky.com
+$discard,site=newyorkpost.com
+$discard,site=nypost.com
+
+! Recurrent
+$discard,site=recurrent.io
+$discard,site=popsci.com
+$discard,site=thedrive.com
+$discard,site=taskandpurpose.com
+$discard,site=businessofhome.com
+$discard,site=futurism.com
+
+! Gannett
+$discard,site=usatoday.com
+$discard,site=newsquest.co.uk
+
+! Bloomberg L.P.
+$discard,site=bloomberg.com
+$discard,site=news.bloomberglaw.com
+
+! Nash Holdings
+$discard,site=washingtonpost.com
+
+! Graham Holdings
+$discard,site=slate.com
+$discard,site=foreignpolicy.com
