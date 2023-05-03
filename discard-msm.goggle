@@ -4,6 +4,7 @@
 ! G/O Media
 $discard,site=avclub.com
 $discard,site=deadspin.com
+$discard,site=gizmodo.com
 $discard,site=jalopnik.com
 $discard,site=jezebel.com
 $discard,site=kotaku.com
@@ -56,6 +57,20 @@ $discard,site=nbcconnecticut.com
 $discard,site=nbcnews.com
 $discard,site=nbcnewyork.com
 
+! Advance Publications
+$discard,site=allure.com
+$discard,site=arstechnica.com
+$discard,site=condenast.com
+$discard,site=glamour.com
+$discard,site=gq.com
+$discard,site=newyorker.com
+$discard,site=pitchfork.com
+$discard,site=self.com
+$discard,site=them.us
+$discard,site=vanityfair.com
+$discard,site=vogue.com
+$discard,site=wired.com
+
 ! Reuters Corporation
 $discard,site=reuters.com
 $discard,site=thomsonreuters.com
@@ -92,5 +107,12 @@ $discard,site=artnews.com
 ! Corporation for Public Broadcasting
 $discard,site=pbs.org
 
+! Red Ventures
+$discard,site=cnet.com
+
 ! National Public Radio Inc
 $discard,site=npr.org
+
+! Chris Richmond
+$discard,site=salon.com
+$discard,site=snopes.com
