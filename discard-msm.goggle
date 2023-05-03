@@ -11,28 +11,34 @@ $discard,site=qz.com
 $discard,site=theroot.com
 $discard,site=theinventory.com
 
-! VOX
+! VOX Media
+$discard,site=eater.com
+$discard,site=curbed.com
+$discard,site=nowthisnews.com
+$discard,site=nymag.com
+$discard,site=polygon.com
 $discard,site=popsugar.com
 $discard,site=seeker.com
-$discard,site=curbed.com
+$discard,site=sbnation.com
 $discard,site=thedodo.com
 $discard,site=thrillist.com
-$discard,site=sbnation.com
-$discard,site=polygon.com
+$discard,site=theverge.com
+$discard,site=vox.com
 
 ! Ziff Davis
 $discard,site=ign.com
+$discard,site=everydayhealth.com
 $discard,site=mashable.com
 $discard,site=pcmag.com
 $discard,site=whattoexpect.com
-$discard,site=everydayhealth.com
 
 ! AOL Verizon Yahoo
+$discard,site=buzzfeed.com
 $discard,site=engadget.com
 $discard,site=techcrunch.com
-$discard,site=huffpost.com
 $discard,site=huffingtonpost.com
-$discard,site=buzzfeed.com
+$discard,site=huffpost.com
+
 
 ! Fox Corporation
 $discard,site=foxnews.com
@@ -40,18 +46,18 @@ $discard,site=foxsports.com
 $discard,site=foxcorporation.com
 
 ! NBCUniversal
+$discard,site=cnbc.com
+$discard,site=msnbc.com
 $discard,site=nbc.com
+$discard,site=nbcconnecticut.com
 $discard,site=nbcnews.com
 $discard,site=nbcnewyork.com
-$discard,site=nbcconnecticut.com
-$discard,site=msnbc.com
-$discard,site=cnbc.com
 
 ! Reuters Corporation
-$discard,site=thomsonreuters.com
 $discard,site=reuters.com
+$discard,site=thomsonreuters.com
 
 ! Daily Mail
-$discard,site=standard.co.uk
 $discard,site=dailymail.co.uk
 $discard,site=independent.co.uk
+$discard,site=standard.co.uk
