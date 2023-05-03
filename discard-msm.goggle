@@ -25,6 +25,10 @@ $discard,site=thrillist.com
 $discard,site=theverge.com
 $discard,site=vox.com
 
+! Vice
+$discard,site=vice.com
+$discard,site=vicenews.com
+
 ! Ziff Davis
 $discard,site=ign.com
 $discard,site=everydayhealth.com
@@ -38,7 +42,6 @@ $discard,site=engadget.com
 $discard,site=techcrunch.com
 $discard,site=huffingtonpost.com
 $discard,site=huffpost.com
-
 
 ! Fox Corporation
 $discard,site=foxnews.com
@@ -61,3 +64,33 @@ $discard,site=thomsonreuters.com
 $discard,site=dailymail.co.uk
 $discard,site=independent.co.uk
 $discard,site=standard.co.uk
+
+! Al Jazeera Media Network
+$discard,site=aljazeera.com
+$discard,site=aljazeera.net
+$discard,site=ajplus.net
+
+! Warner Bros. Discovery
+$discard,site=cnn.com
+
+! Paramount Global
+$discard,site=cbs.com
+$discard,site=cbsnews.com
+$discard,site=mtv.com
+
+! Penske Media Corporation
+$discard,site=rollingstone.com
+$discard,site=pmc.com/
+$discard,site=deadline.com/
+$discard,site=indiewire.com/
+$discard,site=bgr.com/
+$discard,site=variety.com/
+$discard,site=tvline.com/
+$discard,site=robbreport.com/
+$discard,site=artnews.com
+
+! Corporation for Public Broadcasting
+$discard,site=pbs.org
+
+! National Public Radio Inc
+$discard,site=npr.org
