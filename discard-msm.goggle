@@ -1,21 +1,7 @@
-! description: Discards MSM & MSM-influenced from search results
-! public: true
-! author: Greg Slepak
-! name: Discard MSM
-! homepage: https://github.com/taoeffect/discard-msm
-! license: MIT
-! avatar: #93d077
+! Websites filter list for Brave Goggles
+! https://search.brave.com/goggles?q=&source=web
 
-$discard,site=popsugar.com
-$discard,site=seeker.com
-$discard,site=curbed.com
-$discard,site=thedodo.com
-$discard,site=thrillist.com
-$discard,site=sbnation.com
-$discard,site=polygon.com
-$discard,site=engadget.com
-$discard,site=standard.co.uk
-$discard,site=gawker.com
+! G/O Media
 $discard,site=avclub.com
 $discard,site=deadspin.com
 $discard,site=jalopnik.com
@@ -24,140 +10,48 @@ $discard,site=kotaku.com
 $discard,site=qz.com
 $discard,site=theroot.com
 $discard,site=theinventory.com
-$discard,site=nytimes.com
-$discard,site=newsweek.com
-$discard,site=cnn.com
-$discard,site=washingtonpost.com
+
+! VOX
+$discard,site=popsugar.com
+$discard,site=seeker.com
+$discard,site=curbed.com
+$discard,site=thedodo.com
+$discard,site=thrillist.com
+$discard,site=sbnation.com
+$discard,site=polygon.com
+
+! Ziff Davis
+$discard,site=ign.com
+$discard,site=mashable.com
+$discard,site=pcmag.com
+$discard,site=whattoexpect.com
+$discard,site=everydayhealth.com
+
+! AOL Verizon Yahoo
+$discard,site=engadget.com
+$discard,site=techcrunch.com
+$discard,site=huffpost.com
 $discard,site=huffingtonpost.com
-$discard,site=cnet.com
+$discard,site=buzzfeed.com
+
+! Fox Corporation
 $discard,site=foxnews.com
-$discard,site=msnbc.com
-$discard,site=cnbc.com
+$discard,site=foxsports.com
+$discard,site=foxcorporation.com
+
+! NBCUniversal
 $discard,site=nbc.com
 $discard,site=nbcnews.com
 $discard,site=nbcnewyork.com
 $discard,site=nbcconnecticut.com
-$discard,site=abc.com
-$discard,site=abc.net.au
-$discard,site=go.com
-$discard,site=cbs.com
-$discard,site=cbsnews.com
-$discard,site=time.com
-$discard,site=economist.com
-$discard,site=forbes.com
-$discard,site=axios.com
-$discard,site=wsj.com
-$discard,site=snopes.com
-$discard,site=politifact.com
-$discard,site=verifythis.com
-$discard,site=bloomberg.com
-$discard,site=news.bloomberglaw.com
-$discard,site=slate.com
-$discard,site=newyorker.com
-$discard,site=fortune.com
-$discard,site=newyorkpost.com
-$discard,site=nypost.com
-$discard,site=newrepublic.com
-$discard,site=rollingstone.com
-$discard,site=facebook.com
-$discard,site=nymag.com
-$discard,site=gizmodo.com
-$discard,site=latimes.com
-$discard,site=seattletimes.com
-$discard,site=foreignpolicy.com
-$discard,site=foreignaffairs.com
-$discard,site=britannica.com
-$discard,site=politico.com
-$discard,site=thehill.com
-$discard,site=thenation.com
-$discard,site=vice.com
-$discard,site=vicenews.com
-$discard,site=apnews.com
-$discard,site=pbs.org
-$discard,site=npr.org
-$discard,site=adl.org
-$discard,site=cfr.org
-$discard,site=thedailybeast.com
-$discard,site=breitbart.com
-$discard,site=hellomagazine.com
-$discard,site=democracynow.org
-$discard,site=propublica.org
-$discard,site=mediamatters.org
-$discard,site=the-sun.com
-$discard,site=thesunmagazine.org
-$discard,site=thesun.co.uk
-$discard,site=walesonline.co.uk
-$discard,site=dailystar.co.uk
-$discard,site=express.co.uk
-$discard,site=dailymail.co.uk
-$discard,site=theintercept.com
-$discard,site=theverge.com
-$discard,site=theguardian.com
-$discard,site=guardian.co.uk
-$discard,site=independent.co.uk
-$discard,site=vox.com
-$discard,site=theatlantic.com
-$discard,site=usatoday.com
-$discard,site=wikipedia.org
-$discard,site=aljazeera.com
-$discard,site=aljazeera.net
-$discard,site=ajplus.net
-$discard,site=rt.com
-$discard,site=businessinsider.com
-$discard,site=telegraph.co.uk
-$discard,site=yahoo.com
-$discard,site=bbc.co.uk
-$discard,site=bbc.com
-$discard,site=cbc.ca
+$discard,site=msnbc.com
+$discard,site=cnbc.com
+
+! Reuters Corporation
+$discard,site=thomsonreuters.com
 $discard,site=reuters.com
-$discard,site=mit.edu
-$discard,site=popsci.com
-$discard,site=popularmechanics.com
-$discard,site=usnews.com
-$discard,site=metro.co.uk
-$discard,site=heraldsun.com.au
-$discard,site=ctvnews.ca
-$discard,site=nowthisnews.com
-$discard,site=themorningnews.com
-$discard,site=weather.com
-$discard,site=nationalgeographic.com
-$discard,site=pewresearch.org
-$discard,site=911memorial.org
-$discard,site=millercenter.org
-$discard,site=structuremag.org
-$discard,site=iwm.org.uk
-$discard,site=history.com
-$discard,site=sciencealert.com
-$discard,site=space.com
-$discard,site=msn.com
-$discard,site=gov.uk
-$discard,site=history.navy.mil
-$discard,site=army.mil
-$discard,site=nist.gov
-$discard,site=fema.gov
-$discard,site=nasa.gov
-$discard,site=justice.gov
-$discard,site=govinfo.gov
-$discard,site=gpo.gov
-$discard,site=dni.gov
-$discard,site=9-11commission.gov
-$discard,site=fbi.gov
-$discard,site=cia.gov
-$discard,site=tsa.gov
-$discard,site=va.gov
-$discard,site=dhs.gov
-$discard,site=nyc.gov
-$discard,site=loc.gov
-$discard,site=state.gov
-$discard,site=georgewbushlibrary.gov
-$discard,site=whitehouse.gov
 
-! These folk deserve a boost
-$boost=3,site=ae911truth.org
-$boost=3,site=wtc7.net
-$boost=3,site=corbettreport.com
-$boost=3,site=wikispooks.com
-
-! No clear explanation why these appear in the results when they shouldn't
-$downrank=3,site=modernmemorydesign.com
-$downrank=3,site=wayfair.com
+! Daily Mail
+$discard,site=standard.co.uk
+$discard,site=dailymail.co.uk
+$discard,site=independent.co.uk
